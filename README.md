@@ -8,8 +8,12 @@
   <h3 align="center">SHIELD CubeSat Debris Detection System</h3>
 
   <p align="center">
-    A CubeSat project aimed at detecting and monitoring space debris in Low Earth Orbit (LEO) using radar technology. [Click here to read our report](https://drive.google.com/file/d/1xwAMMDrOvCF_YBH6bPyY7-aGGTQGjALH/view?usp=sharing)
-
+    A CubeSat project aimed at detecting and monitoring space debris in Low Earth Orbit (LEO) using radar technology. 
+  </p>
+    <p align="center">
+    <a href="https://drive.google.com/file/d/1xwAMMDrOvCF_YBH6bPyY7-aGGTQGjALH/view?usp=sharing">
+      <strong>Click here to read our report</strong>
+    </a>
   </p>
 
 <!-- TABLE OF CONTENTS -->
