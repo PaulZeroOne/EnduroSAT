@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/PaulZeroOne/EnduroSAT">
-    <img src="images/logo.png" alt="CubeSat Project Logo" width="80" height="80">
+    <img src="https://www.nanosats.eu/img/org/thumb3/thumbnail_EnduroSat_horLogo_main@2x_1-min.png" alt="CubeSat Project Logo">
   </a>
 
   <h3 align="center">SHIELD CubeSat Debris Detection System</h3>
@@ -73,3 +73,6 @@ The CubeSAT integrates off-the-shelf systems from EnduroSat and custom-built com
 <p align="center">
   <img src="https://github.com/PaulZeroOne/EnduroSAT/raw/master/images/Assemb_3.3_(1)_2024-Aug-05_11-04-50AM-000_CustomizedView37173395950.png" alt="CubeSat Mechanical Assembly" style="max-width: 100%;">
 </p>
+
+## License
+This project is licensed under the EnduroSat 2024 License. See the [LICENSE](./LICENSE) file for more details.
